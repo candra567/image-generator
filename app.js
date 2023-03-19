@@ -1,6 +1,6 @@
 const form = document.querySelector("form");
 const cardBody = document.querySelector(".card-body");
-const SecretKey = "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";
+const SecretKey = "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";
 const input=document.querySelector('form input[type="text"]')
 form.addEventListener('submit', async function(event) {
     event.preventDefault();
